@@ -1,3 +1,2 @@
 # heart-disease
-Predicting the possibility of a heart attack based on medical tests. Model training on dataset from kaggle.com.
-В данном блокноте мы строим предсказания возможности инфаркта у пациента с заданными медицинскими показаниями. Тренировка можели на датасете с kaggle.com.
+В данном блокноте мы строим предсказания возможности болезней сердечно-сосудистой системы у пациента с заданными медицинскими показаниями. Тренировка и проверка модели произведена на основе данных, взятых с UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+disease
